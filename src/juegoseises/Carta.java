@@ -23,7 +23,7 @@ public class Carta {
     
     @Override
     public String toString() {
-        return "Carta{" + "valor=" + valor + ", figura=" + figura + '}';
+        return "Carta {" + "valor = " + valor + ", figura = " + figura + " }";
     }
     
 
